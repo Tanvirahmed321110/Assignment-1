@@ -20,7 +20,7 @@ h1{font-size: 45px;
 
 
  .section-2{background-image: url(7.png);}
- .fifty-4 a{padding: 10px; font-weight: bolder;font-size: 19px;color: white;background-image: linear-gradient(blue,purple);border-radius: 22px;border: 2px rgb(54, 8, 8) solid;}     
+ .fifty-4 a{padding: 10px; font-weight: bolder;font-size: 19px;color: white;background-image: linear-gradient(blue,purple);border-radius: 22px;border: 2px rgb(54, 8, 8) solid; text-decoration: none;}     
  
 
  
@@ -40,5 +40,14 @@ h1{font-size: 45px;
  .img-4{width: 230px;box-sizing: border-box;border-radius: 5px;}
  .img-5{width: 230px;box-sizing: border-box;  border: olive 2px solid; border-radius: 5px;}
 
+
+
  .main{display: flex; box-shadow: 3px 3px 10px red; width: 95%;margin-left: 29px;height: 150px;}
  .main-1{width: 300px;padding-left: 150px;}
+
+
+ footer{background-color: black;
+    width: 100%;height: 110px;
+    text-align: center;padding-bottom: 10px;
+   color: white;}
+   footer h2{font-size: 40px;}
